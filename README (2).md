@@ -466,9 +466,9 @@ This project was developed collaboratively during Azure Data Engineering trainin
 
 | Team Member | Role |
 |------------|------|
-| Mallikarjun Mandava | DBT, Gold Layer, Star Schema, Data Modeling |
+| Chandrika | DBT, Gold Layer, Star Schema, Data Modeling |
 | Dara Naga Sai Sudheer | Bronze Layer, Silver Layer, Azure Databricks, PySpark, Data Pipeline Development |
-| Chandrika | Data Engineering & Testing |
+| Mallikarjun Mandava | Data Engineering & Testing |
 | Santhosh | Data Processing & Validation |
 | Suhan | Analytics & Dashboard Support |
 
@@ -476,7 +476,7 @@ This project was developed collaboratively during Azure Data Engineering trainin
 
 # 👨‍💻 Author
 
-**Mallikarjun Mandava**
+**Are Chandrika**
 
 **Azure Data Engineer**
 

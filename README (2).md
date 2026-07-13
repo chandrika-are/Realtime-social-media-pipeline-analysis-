@@ -315,7 +315,7 @@ Send Notification
 End
 ```
 
-*(Insert your Airflow DAG image.)*
+![Airflow DAG](Dashboard/Airflow_DAG_Image/Airflow_DAG.jpeg)
 
 ---
 
@@ -331,7 +331,8 @@ Pipeline monitoring includes:
 * Failed job alerts
 * Success notifications
 
-*(Insert monitoring architecture or screenshots.)*
+
+![Monitoring & Alerts](Dashboard/Monitoring_Alerts_Image/Monitoring_Alerts.jpeg)
 
 ---
 
@@ -350,7 +351,9 @@ Power BI dashboards provide:
 * Positive vs Negative Sentiment
 * Topic Performance
 
-*(Insert dashboard screenshots.)*
+
+![](Dashboard/Dashboard%20Images/Executive%20Summary.png)
+![](Dashboard/Dashboard%20Images/Topic%20Performance.png)
 
 ---
 
